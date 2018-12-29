@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ceofficial/top-photo/static/css/main.030c7c8d.chunk.css"
   },
   {
-    "revision": "b76b2b52f91652f29eea2c12cb9e8e78",
+    "revision": "07784fcec06d0f9451a8097205381d4b",
     "url": "/ceofficial/top-photo/index.html"
   }
 ];
